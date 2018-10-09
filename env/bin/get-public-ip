@@ -1,0 +1,6 @@
+#!/home/dev/myprjtest/prj_djdash/env/bin/python3.5
+
+from pif.commands.get_public_ip import main
+
+if __name__ == "__main__":
+    main()
